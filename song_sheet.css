@@ -1,6 +1,7 @@
 bandName {
     font-size: larger;
     text-align: center;
+    display: block;
 }
 
 song {
