@@ -4,6 +4,10 @@ bandName {
     display: block;
 }
 
+bandSetList{
+    text-align: center;
+}
+
 song {
     display: block;
     text-align: center;
