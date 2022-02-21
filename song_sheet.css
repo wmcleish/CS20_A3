@@ -1,24 +1,28 @@
 bandName {
-    font-size: large;
+    font-size: larger;
+    
 }
 
 song {
-    border: 1px solid;
     display: block;
 }
 
 title {
-    font-size: medium;
+    font-size: large;
+    display: block;
 }
 
 artists {
-    font-size: small
+    font-size: small;
+    display: block;
 }
 
 genres {
-    font-size: small
+    font-size: small;
+    display: block;
 }
 
 year {
-    font-size: small
+    font-size: small;
+    display: block;
 }
